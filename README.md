@@ -1,3 +1,20 @@
+<h1 align="center"><b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b></h1>
+
+<p align="center">
+  <img src="https://i.ibb.co/n8rrV7Jj/file-00000000971c71faa61d1fdd6b442415.png" alt="Dᴜʙʙᴇᴅ Mᴏᴠɪᴇz 77 Logo">
+</p>
+
+<h1 align="center">Dᴜʙʙᴇᴅ Mᴏᴠɪᴇz 77</h1>
+
+---
+
+## 🚀 Demo Bot
+
+
+Try the live bot here:
+
+[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white)](https://t.me/No1_movie_search_bot)
+
 ## 🔔 New Version Released – V1.4
 
 - ✅ Spell Check Toggle (Group Only)
@@ -45,6 +62,12 @@
 - ✅ Chat Leave/Disable  
 - ✅ Auto Delete Old Files  
 - ✅ …and more!
+
+---
+
+## 👤 Owner
+
+[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://t.me/DM_77_help_centre_bot)
 
 ---
 
