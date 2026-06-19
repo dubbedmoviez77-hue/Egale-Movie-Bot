@@ -406,8 +406,7 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 
     SOURCE_TXT ="""<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : 👇 </b>
 
-<b>This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Code Is Strictly Prohibited.\n
-ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com> Dᴜʙʙᴇᴅ Mᴏᴠɪᴇz 77</a></b>\n """
+<b>You Want to get like this Auto Filter bot contact Admin And get Eazily ◉› :<a https://t.me/DM_77_help_centre_bot> Dᴜʙʙᴇᴅ Mᴏᴠɪᴇz 77</a></b>\n """
 
     SETTING_TXT = """    
 <u>ꜱᴇᴛᴛɪɴɢꜱ</u> :
